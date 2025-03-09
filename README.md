@@ -55,7 +55,6 @@ python verify_results.py --mrc-dir <data_directory> --gpt-dir <results_directory
 ├── main_code/get_results_mrc_knn.py   # Generate prompts and extract entities
 ├── main_code/verify_results.py        # Validate results
 ├── data set/                          # Store datasets
-├── models/                            # Models
 └── README.md                          # Project documentation
 ```
 
